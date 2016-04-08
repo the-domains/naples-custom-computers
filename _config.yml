@@ -1,0 +1,28 @@
+name: Naples Custom Computers
+favicon: null
+layout_spectrum: 0.5763777708634734
+typography_spectrum: 0.06551551492884755
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.23141488642431796
+  lightness: 0.4267737518530339
+  saturation: 0.7821483465377241
+  rhythmicContrast: 0.011632716516032815
+purpose: []
